@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_kernel_xiaomi_sm8750",
+    "target_path": "kernel/xiaomi/sm8750"
+  },
+  {
+    "repository": "android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  }
+]
