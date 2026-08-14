@@ -62,6 +62,7 @@ PRODUCT_PACKAGES += \
     audio.primary.default \
     audio.r_submix.default \
     audio.usb.default \
+    libaudiocorehal.default \
     libaudiohalvendorextn \
     qtiaudiohalvendorextn
 
